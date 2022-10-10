@@ -1,2 +1,4 @@
-# face-mask-detection
-Face Mask Detection
+# Face Mask Detection
+
+Deep Learning Framework that detects faces and predicts presence of masks.
+
