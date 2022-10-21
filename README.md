@@ -4,7 +4,7 @@ The project is about the development of an algorithm that could help in controll
 
 ## Acknowledgements
 
-The code constitutes an implementation of the approach proposed by [Joshi et al.](https://ieeexplore.ieee.org/abstract/document/9242625).
+The code constitutes an implementation of the approach proposed by [Joshi et al](https://ieeexplore.ieee.org/abstract/document/9242625).
 
 ## Python dependencies
 
