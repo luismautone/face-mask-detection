@@ -1,10 +1,10 @@
 # Face Mask Detection
 
-The project is about the development of an algorithm that could help in controlling the use of masks in public places by the analysis of video footage, photos, etc.
+The project is about the development of an algorithm that could help in controlling the use of masks in public places by the analysis of video footage.
 
 ## Acknowledgements
 
-The code constitutes an implementation of the approach proposed by [Joshi et al.](https://ieeexplore.ieee.org/abstract/document/9242625)
+The code constitutes an implementation of the approach proposed by [Joshi et al.](https://ieeexplore.ieee.org/abstract/document/9242625).
 
 ## Python dependencies
 
