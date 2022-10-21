@@ -34,7 +34,7 @@ Predict the presence of masks with [<b>MobileNetV2</b>](https://arxiv.org/abs/18
 
 In ```MaskDetection_training.ipynb``` the cited network was trained on [<i>Face Mask Detection ~12K Images Dataset</i>](https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset) that contains only faces of people with and without masks.
 
-In ```FaceMaskDetection_main.ipynb```, the trained MobileNetV2 model was used to be evaluated on <i>Face Mask Dataset</i>.
+In ```FaceMaskDetection_main.ipynb``` the trained MobileNetV2 model was used evaluated on the <i>Face Mask Dataset</i>.
 
 |              | Precision | Recall | F1  |
 | ------------ | --------- | ------ | --- |
