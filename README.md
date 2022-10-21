@@ -6,14 +6,13 @@ The project is about the development of an algorithm that could help in controll
 
 The code constitutes an implementation of the approach proposed by [Joshi et al.](https://ieeexplore.ieee.org/abstract/document/9242625)
 
-## Framework
+## Face Detection
 
-### Face Detection
+Detect person faces from images taken in a wild environment.
 
-The goal is to detect person faces from images taken in a wild environment.
-For this purpose [<b>MTCNN</b>](https://github.com/ipazc/mtcnn) was used: a Convolutional Neural Network that exploits multi-task learning to integrate face detection and face alignment.
+[<b>MTCNN</b>](https://github.com/ipazc/mtcnn) was used: a Convolutional Neural Network that exploits multi-task learning to integrate face detection and face alignment.
 
-![Unknown](https://user-images.githubusercontent.com/34343511/197197731-2c1942a7-062e-447f-807e-9d8f881029b4.png)
+![Unknown](https://user-images.githubusercontent.com/34343511/197197731-2c1942a7-062e-447f-807e-9d8f881029b4.png){ width: 200px; }
 
 In ```FaceMaskDetection_main.ipynb```, MTCNN was evaluated on [<i>Face Mask Dataset</i>](https://www.kaggle.com/datasets/aditya276/face-mask-dataset-yolo-format) that contains 924 images of people with and without mask.
 
